@@ -2,7 +2,7 @@
 
 A sleek and modern weather application built with React and Vite that provides real-time weather information with a beautiful user interface.
 
-![Weather App Screenshot](src\assets\Screenshot_20250127_105516.png)
+![Weather App Screenshot](https://raw.githubusercontent.com/komail11/Weather-App/main/src/assets/Screenshot_20250127_105516.png)
 
 ## Features
 
