@@ -9,7 +9,6 @@
 }
 
 .weather {
-    
     place-self: center;
     padding: 40px;
     border: 2px solid black;
@@ -20,9 +19,8 @@
     align-items: center;
     justify-content: center;
     font-family: 'DM Sans', sans-serif;
-
-    
 }
+
 .search-bar {
     display: flex;
     align-items: center;
@@ -42,11 +40,11 @@
 }
 
 .search-bar img {
-    width: 40px; /* Adjust size as needed */
-    height: 40px; /* Adjust size as needed */
+    width: 40px;
+    height: 40px;
     cursor: pointer;
-    border-radius: 50%; /* Make it circular */
-    padding: 10px; /* Space between the image and the outline */
+    border-radius: 50%;
+    padding: 10px;
     background-color: #ffffff;
 }
 
@@ -64,8 +62,8 @@
     color: white;
     font-size: 80px;
     line-height: 1;
-    
 }
+
 .location {
     color: white;
     font-size: 40px;
